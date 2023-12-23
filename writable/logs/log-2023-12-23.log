@@ -1,0 +1,1236 @@
+CRITICAL - 2023-12-23 07:55:20 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-12-23 07:55:20 --> Uncaught Error: Class "Locale" not found in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Debug\Exceptions.php(148): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#6 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\spark(88): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-12-23 07:55:42 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-12-23 07:55:42 --> Uncaught Error: Class "Locale" not found in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Debug\Exceptions.php(148): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#6 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\spark(88): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-12-23 09:00:29 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-12-23 09:00:29 --> Uncaught Error: Class "Locale" not found in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Debug\Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#6 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\spark(88): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-12-23 09:01:20 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-12-23 09:01:20 --> Uncaught Error: Class "Locale" not found in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Debug\Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#6 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\spark(88): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+ERROR - 2023-12-23 08:12:24 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PendudukController.php(12): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PendudukController->index()
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PendudukController.php(12): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PendudukController->index()
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#11 {main}
+CRITICAL - 2023-12-23 08:12:24 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `penduduk`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\PendudukController.php(12): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+ERROR - 2023-12-23 08:12:33 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PendudukController.php(12): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PendudukController->index()
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PendudukController.php(12): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PendudukController->index()
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#11 {main}
+CRITICAL - 2023-12-23 08:12:33 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `penduduk`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\PendudukController.php(12): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+ERROR - 2023-12-23 08:12:35 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PendudukController.php(12): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PendudukController->index()
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PendudukController.php(12): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PendudukController->index()
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#11 {main}
+CRITICAL - 2023-12-23 08:12:35 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `penduduk`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\PendudukController.php(12): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+ERROR - 2023-12-23 08:12:36 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PendudukController.php(12): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PendudukController->index()
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PendudukController.php(12): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PendudukController->index()
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#11 {main}
+CRITICAL - 2023-12-23 08:12:36 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `penduduk`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\PendudukController.php(12): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+ERROR - 2023-12-23 08:12:49 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PendudukController.php(12): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PendudukController->index()
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PendudukController.php(12): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PendudukController->index()
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#11 {main}
+CRITICAL - 2023-12-23 08:12:49 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `penduduk`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\PendudukController.php(12): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+ERROR - 2023-12-23 08:12:52 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PendudukController.php(12): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PendudukController->index()
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PendudukController.php(12): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PendudukController->index()
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#11 {main}
+CRITICAL - 2023-12-23 08:12:52 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `penduduk`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\PendudukController.php(12): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+CRITICAL - 2023-12-23 08:15:45 --> Call to undefined function form_open()
+in APPPATH\Views\penduduk\create.php on line 2.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('penduduk/create', [], true)
+ 4 APPPATH\Controllers\PendudukController.php(19): view('penduduk/create')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->create()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+CRITICAL - 2023-12-23 08:15:50 --> Call to undefined function form_open()
+in APPPATH\Views\penduduk\create.php on line 2.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('penduduk/create', [], true)
+ 4 APPPATH\Controllers\PendudukController.php(19): view('penduduk/create')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->create()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+CRITICAL - 2023-12-23 08:23:54 --> Class "Services" not found
+in APPPATH\Config\Routes.php on line 5.
+ 1 SYSTEMPATH\Router\RouteCollection.php(344): require()
+ 2 SYSTEMPATH\CodeIgniter.php(810): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 08:27:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 08:27:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 08:27:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-23 08:28:01 --> Undefined property: App\Controllers\PendudukController::$session
+in APPPATH\Controllers\PendudukController.php on line 40.
+ 1 APPPATH\Controllers\PendudukController.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\PendudukController::$session', 'C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\app\\Controllers\\PendudukController.php', 40)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+ERROR - 2023-12-23 08:32:46 --> mysqli_sql_exception: Duplicate entry '2147483647' for key 'PRIMARY' in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PendudukController.php(35): CodeIgniter\Model->insert(Array)
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#13 {main}
+CRITICAL - 2023-12-23 08:32:46 --> Duplicate entry '2147483647' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `penduduk` (`nama`, `nik`, `desa`, `kecamatan`, `no_tps`) VALUES (:nama:, :nik:, :desa:, :kecamatan:, :no_tps:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\PendudukController.php(35): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 08:33:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 08:33:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 08:33:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 08:34:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 08:34:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-23 08:35:33 --> syntax error, unexpected token "public", expecting end of file
+in APPPATH\Controllers\PendudukController.php on line 48.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\app\\Controllers\\PendudukController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\PendudukController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\PendudukController')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\PendudukController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 08:35:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-23 08:36:06 --> mysqli_sql_exception: Duplicate entry '2147483647' for key 'PRIMARY' in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Models\PendudukModel.php(17): CodeIgniter\Model->insert(Array)
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PendudukController.php(36): App\Models\PendudukModel->addPenduduk(Array)
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+#11 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#14 {main}
+CRITICAL - 2023-12-23 08:36:06 --> Duplicate entry '2147483647' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `penduduk` (`nama`, `nik`, `desa`, `kecamatan`, `no_tps`) VALUES (:nama:, :nik:, :desa:, :kecamatan:, :no_tps:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Models\PendudukModel.php(17): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\PendudukController.php(36): App\Models\PendudukModel->addPenduduk([...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 08:40:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-23 08:40:36 --> mysqli_sql_exception: Duplicate entry '2147483647' for key 'PRIMARY' in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Models\PendudukModel.php(17): CodeIgniter\Model->insert(Array)
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PendudukController.php(36): App\Models\PendudukModel->addPenduduk(Array)
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+#11 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#14 {main}
+CRITICAL - 2023-12-23 08:40:36 --> Duplicate entry '2147483647' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `penduduk` (`nama`, `nik`, `desa`, `kecamatan`, `no_tps`) VALUES (:nama:, :nik:, :desa:, :kecamatan:, :no_tps:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Models\PendudukModel.php(17): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\PendudukController.php(36): App\Models\PendudukModel->addPenduduk([...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+CRITICAL - 2023-12-23 08:41:54 --> Undefined property: App\Controllers\PendudukController::$session
+in APPPATH\Controllers\PendudukController.php on line 49.
+ 1 APPPATH\Controllers\PendudukController.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\PendudukController::$session', 'C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\app\\Controllers\\PendudukController.php', 49)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 08:45:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-23 08:45:41 --> Undefined property: App\Controllers\PendudukController::$session
+in APPPATH\Controllers\PendudukController.php on line 36.
+ 1 APPPATH\Controllers\PendudukController.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\PendudukController::$session', 'C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\app\\Controllers\\PendudukController.php', 36)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 08:47:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 08:47:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 08:47:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 08:47:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-23 08:47:23 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Models\PendudukModel.php(20): CodeIgniter\Model->insert(Array)
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PendudukController.php(42): App\Models\PendudukModel->addPenduduk(Array)
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+#11 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#14 {main}
+CRITICAL - 2023-12-23 08:47:23 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `penduduk` (`nama`, `desa`, `kecamatan`, `no_tps`) VALUES (:nama:, :desa:, :kecamatan:, :no_tps:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Models\PendudukModel.php(20): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\PendudukController.php(42): App\Models\PendudukModel->addPenduduk([...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 08:59:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-23 08:59:09 --> Invalid file: "layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout', [], true)
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('penduduk/index', [], true)
+ 4 APPPATH\Controllers\PendudukController.php(15): view('penduduk/index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 08:59:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-23 08:59:09 --> Invalid file: "layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layout', [], true)
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('penduduk/index', [], true)
+ 4 APPPATH\Controllers\PendudukController.php(15): view('penduduk/index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 09:00:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:00:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:00:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:00:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:00:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:00:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:00:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:02:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-23 09:02:56 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PendudukController.php(35): CodeIgniter\Model->insert(Array)
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#13 {main}
+CRITICAL - 2023-12-23 09:02:56 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `penduduk` (`nama`, `nik`, `desa`, `kecamatan`, `no_tps`) VALUES (:nama:, :nik:, :desa:, :kecamatan:, :no_tps:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\PendudukController.php(35): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+ERROR - 2023-12-23 09:03:28 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PendudukController.php(35): CodeIgniter\Model->insert(Array)
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#13 {main}
+CRITICAL - 2023-12-23 09:03:28 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `penduduk` (`nama`, `nik`, `desa`, `kecamatan`, `no_tps`) VALUES (:nama:, :nik:, :desa:, :kecamatan:, :no_tps:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\PendudukController.php(35): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+ERROR - 2023-12-23 09:04:38 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PendudukController.php(35): CodeIgniter\Model->insert(Array)
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#13 {main}
+CRITICAL - 2023-12-23 09:04:38 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `penduduk` (`nama`, `nik`, `desa`, `kecamatan`, `no_tps`) VALUES (:nama:, :nik:, :desa:, :kecamatan:, :no_tps:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\PendudukController.php(35): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 09:06:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:06:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:06:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:06:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:06:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:06:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:06:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:07:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:07:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:08:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-23 09:08:40 --> Undefined variable $i
+in APPPATH\Views\penduduk\index.php on line 29.
+ 1 APPPATH\Views\penduduk\index.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $i', 'C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\app\\Views\\penduduk\\index.php', 29)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\app\\Views\\penduduk\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('penduduk/index', [], true)
+ 5 APPPATH\Controllers\PendudukController.php(15): view('penduduk/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 09:09:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:09:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:09:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-23 09:10:02 --> mysqli_sql_exception: Duplicate entry '11111111111' for key 'nik' in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PendudukController.php(35): CodeIgniter\Model->insert(Array)
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#13 {main}
+CRITICAL - 2023-12-23 09:10:02 --> Duplicate entry '11111111111' for key 'nik'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `penduduk` (`nama`, `nik`, `desa`, `kecamatan`, `no_tps`) VALUES (:nama:, :nik:, :desa:, :kecamatan:, :no_tps:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\PendudukController.php(35): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+ERROR - 2023-12-23 09:10:35 --> mysqli_sql_exception: Duplicate entry '11111111111' for key 'nik' in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PendudukController.php(35): CodeIgniter\Model->insert(Array)
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#13 {main}
+CRITICAL - 2023-12-23 09:10:35 --> Duplicate entry '11111111111' for key 'nik'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `penduduk` (`nama`, `nik`, `desa`, `kecamatan`, `no_tps`) VALUES (:nama:, :nik:, :desa:, :kecamatan:, :no_tps:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\PendudukController.php(35): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+ERROR - 2023-12-23 09:10:52 --> mysqli_sql_exception: Duplicate entry '11111111111' for key 'nik' in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PendudukController.php(35): CodeIgniter\Model->insert(Array)
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#13 {main}
+CRITICAL - 2023-12-23 09:10:52 --> Duplicate entry '11111111111' for key 'nik'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `penduduk` (`nama`, `nik`, `desa`, `kecamatan`, `no_tps`) VALUES (:nama:, :nik:, :desa:, :kecamatan:, :no_tps:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\PendudukController.php(35): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+CRITICAL - 2023-12-23 09:17:36 --> Call to undefined method App\Controllers\PendudukController::isNIKRegistered()
+in APPPATH\Controllers\PendudukController.php on line 36.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+CRITICAL - 2023-12-23 09:18:02 --> Call to undefined method App\Controllers\PendudukController::isNIKRegistered()
+in APPPATH\Controllers\PendudukController.php on line 36.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+CRITICAL - 2023-12-23 09:18:50 --> Call to undefined method App\Controllers\PendudukController::isNIKRegistered()
+in APPPATH\Controllers\PendudukController.php on line 36.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PendudukController->store()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PendudukController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 09:26:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:26:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:26:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:26:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:26:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:26:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:26:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:26:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:26:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:26:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:26:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:31:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:31:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:32:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:32:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:32:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:32:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:33:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:36:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:40:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:40:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:40:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:45:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 09:45:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 10:35:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 11:00:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 11:00:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 11:00:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 11:01:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 11:01:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 11:01:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 11:01:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 11:01:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-23 11:13:06 --> mysqli_sql_exception: Table 'data-pemilih.pemilih' doesn't exist in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PemilihController.php(13): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PemilihController->index()
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#12 {main}
+CRITICAL - 2023-12-23 11:13:06 --> Table 'data-pemilih.pemilih' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pemilih`', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\PemilihController.php(13): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+ERROR - 2023-12-23 11:13:16 --> mysqli_sql_exception: Table 'data-pemilih.pemilih' doesn't exist in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PemilihController.php(13): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PemilihController->index()
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#12 {main}
+CRITICAL - 2023-12-23 11:13:16 --> Table 'data-pemilih.pemilih' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pemilih`', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\PemilihController.php(13): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 11:13:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 11:13:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 11:52:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-23 11:52:35 --> Invalid file: "layouts.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts', [], true)
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pemilih/create', [], true)
+ 4 APPPATH\Controllers\PemilihController.php(21): view('pemilih/create')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->create()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 11:53:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-23 11:53:24 --> Invalid file: "layouts.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts', [], true)
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pemilih/create', [], true)
+ 4 APPPATH\Controllers\PemilihController.php(21): view('pemilih/create')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->create()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 11:53:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 11:53:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-23 11:53:32 --> Invalid file: "layouts.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts', [], true)
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pemilih/create', [], true)
+ 4 APPPATH\Controllers\PemilihController.php(21): view('pemilih/create')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->create()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 11:56:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-23 11:56:17 --> Invalid file: "layouts/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/layout.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pemilih/create', [], true)
+ 4 APPPATH\Controllers\PemilihController.php(21): view('pemilih/create')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->create()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 11:56:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 11:56:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-23 11:56:25 --> Invalid file: "layouts/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/layout.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pemilih/create', [], true)
+ 4 APPPATH\Controllers\PemilihController.php(21): view('pemilih/create')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->create()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 11:56:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-23 11:56:40 --> Class "App\Controllers\KecamatanModel" not found
+in APPPATH\Controllers\PemilihController.php on line 90.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->get_kecamatan()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 11:57:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-23 11:57:33 --> Class "App\Controllers\KecamatanModel" not found
+in APPPATH\Controllers\PemilihController.php on line 90.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->get_kecamatan()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+CRITICAL - 2023-12-23 12:00:10 --> syntax error, unexpected token ".", expecting "," or ";"
+in APPPATH\Controllers\PemilihController.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\app\\Controllers\\PemilihController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\PemilihController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\PemilihController')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\PemilihController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 12:00:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-23 12:00:22 --> Class "App\Controllers\DesaModel" not found
+in APPPATH\Controllers\PemilihController.php on line 102.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->get_desa('1')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+CRITICAL - 2023-12-23 12:00:26 --> Class "App\Controllers\DesaModel" not found
+in APPPATH\Controllers\PemilihController.php on line 102.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->get_desa('2')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+CRITICAL - 2023-12-23 12:02:29 --> Cannot redeclare App\Controllers\PemilihController::get_desa()
+in APPPATH\Controllers\PemilihController.php on line 109.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2023-12-23 12:03:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:04:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:06:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-23 12:06:25 --> Undefined property: App\Controllers\PemilihController::$session
+in APPPATH\Controllers\PemilihController.php on line 40.
+ 1 APPPATH\Controllers\PemilihController.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\PemilihController::$session', 'C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\app\\Controllers\\PemilihController.php', 40)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->store()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+ERROR - 2023-12-23 12:08:16 --> mysqli_sql_exception: Duplicate entry '5555555555555555' for key 'nik' in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Models\PemilihModel.php(24): CodeIgniter\Model->insert(Array)
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PemilihController.php(41): App\Models\PemilihModel->insertPemilih(Array)
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PemilihController->store()
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+#11 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#14 {main}
+CRITICAL - 2023-12-23 12:08:16 --> Duplicate entry '5555555555555555' for key 'nik'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pemilih` (`nama`, `nik`, `kecamatan_id`, `desa_id`, `tps`) VALUES (:nama:, :nik:, :kecamatan_id:, :desa_id:, :tps:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Models\PemilihModel.php(24): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\PemilihController.php(41): App\Models\PemilihModel->insertPemilih([...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->store()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 12:10:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-23 12:10:16 --> Invalid file: "pemilih/edit.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pemilih/edit.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pemilih/edit', [], true)
+ 3 APPPATH\Controllers\PemilihController.php(56): view('pemilih/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->edit('1')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 12:10:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:10:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:10:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:10:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:12:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-23 12:12:12 --> Undefined array key "nama_kecamatan"
+in APPPATH\Views\pemilih\index.php on line 39.
+ 1 APPPATH\Views\pemilih\index.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_kecamatan"', 'C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\app\\Views\\pemilih\\index.php', 39)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\app\\Views\\pemilih\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pemilih/index', [], true)
+ 5 APPPATH\Controllers\PemilihController.php(18): view('pemilih/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+CRITICAL - 2023-12-23 12:14:27 --> Call to undefined method App\Models\PemilihModel::with
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\PemilihController.php(18): CodeIgniter\Model->__call('with', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+CRITICAL - 2023-12-23 12:15:18 --> Call to undefined method App\Models\PemilihModel::with
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\PemilihController.php(18): CodeIgniter\Model->__call('with', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 12:16:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:16:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:16:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:16:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:19:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-23 12:19:19 --> Undefined property: App\Controllers\PemilihController::$session
+in APPPATH\Controllers\PemilihController.php on line 87.
+ 1 APPPATH\Controllers\PemilihController.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\PemilihController::$session', 'C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\app\\Controllers\\PemilihController.php', 87)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->delete('1')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 12:20:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:20:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:20:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:20:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-23 12:21:14 --> Invalid file: "pemilih/edit.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pemilih/edit.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pemilih/edit', [], true)
+ 3 APPPATH\Controllers\PemilihController.php(58): view('pemilih/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->edit('4')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+CRITICAL - 2023-12-23 12:22:56 --> Invalid file: "pemilih/edit.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pemilih/edit.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pemilih/edit', [], true)
+ 3 APPPATH\Controllers\PemilihController.php(58): view('pemilih/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->edit('4')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 12:23:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-23 12:23:03 --> Invalid file: "pemilih/edit.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pemilih/edit.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pemilih/edit', [], true)
+ 3 APPPATH\Controllers\PemilihController.php(58): view('pemilih/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->edit('4')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 12:25:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-23 12:25:25 --> Call to undefined function form_open()
+in APPPATH\Views\pemilih\edit.php on line 22.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pemilih/edit', [], true)
+ 4 APPPATH\Controllers\PemilihController.php(58): view('pemilih/edit', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->edit('4')
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 12:26:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-23 12:26:12 --> Undefined variable $kecamatan
+in APPPATH\Views\pemilih\edit.php on line 35.
+ 1 APPPATH\Views\pemilih\edit.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kecamatan', 'C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\app\\Views\\pemilih\\edit.php', 35)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\app\\Views\\pemilih\\edit.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pemilih/edit', [], true)
+ 5 APPPATH\Controllers\PemilihController.php(58): view('pemilih/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->edit('4')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 12:26:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:27:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:27:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:27:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:27:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:27:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:27:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:27:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:27:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:27:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:28:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:28:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:29:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:29:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-23 12:31:41 --> mysqli_sql_exception: Unknown column 'pemilih.created_at' in 'order clause' in C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `pemilih...', 0)
+#1 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pemilih...')
+#2 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pemilih...')
+#3 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `pemilih...', Array, false)
+#4 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Models\PemilihModel.php(33): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\app\Controllers\PemilihController.php(18): App\Models\PemilihModel->getAllData()
+#8 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(942): App\Controllers\PemilihController->index()
+#9 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+#10 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\Ahmad Maulid Ridwan\Documents\ALDI\data-pemilih\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad ...')
+#13 {main}
+CRITICAL - 2023-12-23 12:31:41 --> Unknown column 'pemilih.created_at' in 'order clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `pemilih`.*, `kecamatan`.`nama` as `nama_kecamatan`, `desa`.`nama` as `nama_desa`
+FROM `pemilih`
+JOIN `kecamatan` ON `kecamatan`.`id` = `pemilih`.`kecamatan_id`
+JOIN `desa` ON `desa`.`id` = `pemilih`.`desa_id`
+ORDER BY `pemilih`.`created_at` DESC', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\PemilihModel.php(33): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\PemilihController.php(18): App\Models\PemilihModel->getAllData()
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 12:31:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:33:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-23 12:33:16 --> Undefined array key "nama_kecamatan"
+in APPPATH\Views\pemilih\index.php on line 40.
+ 1 APPPATH\Views\pemilih\index.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_kecamatan"', 'C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\app\\Views\\pemilih\\index.php', 40)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\app\\Views\\pemilih\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('pemilih/index', [], true)
+ 5 APPPATH\Controllers\PemilihController.php(20): view('pemilih/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\PemilihController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PemilihController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Ahmad Maulid Ridwan\\Documents\\ALDI\\data-pemilih\\public\\index.php')
+INFO - 2023-12-23 12:33:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:35:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:35:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:35:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:35:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:35:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:35:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:35:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:35:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:35:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:42:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:45:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:45:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-23 12:45:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
